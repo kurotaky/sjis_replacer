@@ -69,4 +69,8 @@ class TestSJISReplacer < Test::Unit::TestCase
     expected, actual = data
     assert_equal(SJISReplacer.replace(expected), actual)
   end
+
+  def test_replace_safe_characters
+    assert_equal(SJISReplacer.replace('1'), '1')
+  end
 end
