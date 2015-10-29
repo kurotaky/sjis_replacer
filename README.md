@@ -1,5 +1,5 @@
 # SJISReplacer
-[![Build Status](https://travis-ci.org/kurotaky/sjis_replacer.svg)](https://travis-ci.org/kurotaky/sjis_replacer)
+[![Build Status](https://travis-ci.org/kurotaky/sjis_replacer.svg?branch=master)](https://travis-ci.org/kurotaky/sjis_replacer)
 
 replace utf-8 characters to sjis safe.
 
