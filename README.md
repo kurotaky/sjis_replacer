@@ -22,7 +22,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-irb(main):010:0> SJISReplacer.replace(' ①')
+irb(main):010:0> SJISReplacer.replace('①')
 #=> "1"
 
 irb(main):020:0> SJISReplacer.replace('Ⅲ')
