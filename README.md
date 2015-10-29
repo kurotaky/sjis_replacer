@@ -21,7 +21,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+irb(main):010:0> SJISReplacer.replace(' ①')
+#=> "1"
+
+irb(main):020:0> SJISReplacer.replace('Ⅲ')
+#=> "III"
+```
 
 ## Development
 
