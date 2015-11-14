@@ -1,5 +1,6 @@
 # SJISReplacer
 [![Build Status](https://travis-ci.org/kurotaky/sjis_replacer.svg?branch=master)](https://travis-ci.org/kurotaky/sjis_replacer)
+[![Gem](https://img.shields.io/gem/v/sjis_replacer.svg?style=flat-square)](https://rubygems.org/gems/sjis_replacer)
 
 A library for replace utf-8 characters to sjis safe.
 This is not completed all characters.
