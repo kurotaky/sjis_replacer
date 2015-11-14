@@ -1,7 +1,9 @@
 # SJISReplacer
 [![Build Status](https://travis-ci.org/kurotaky/sjis_replacer.svg?branch=master)](https://travis-ci.org/kurotaky/sjis_replacer)
 
-replace utf-8 characters to sjis safe.
+A library for replace utf-8 characters to sjis safe.
+This is not completed all characters.
+Pull Request please if there is what you want. :)
 
 ## Installation
 
