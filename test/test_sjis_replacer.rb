@@ -82,6 +82,8 @@ class TestSJISReplacer < Test::Unit::TestCase
     "U+2499" => ['⒙' ,'18.'],
     "U+249A" => ['⒚' ,'19.'],
     "U+249B" => ['⒛' ,'20.'],
+    "U+9AD9" => ['髙' ,'高'],
+    "U+FA11" => ['﨑' ,'崎'],
   )
 
   def test_replace(data)
